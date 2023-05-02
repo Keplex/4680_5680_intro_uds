@@ -16,6 +16,7 @@ bin-release/
 # Big files
 Week5/nhgis0001_shape/
 Week5/nhgis0001_shape.zip
+Final Project/Data
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
